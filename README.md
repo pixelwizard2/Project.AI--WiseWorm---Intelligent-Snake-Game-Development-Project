@@ -64,7 +64,7 @@ Development of Mobile and Web Versions: Expanding to mobile and web versions to 
 This project explored the potential of AI game development beyond the basics of game development using Python, through the application of advanced algorithms like reinforcement learning and the A* algorithm. The experiences and knowledge gained from this project are expected to be valuable for future AI-based projects.
 
 
-## 7. Reflections and Areas for Improvement (진행 중 느낀점/ 아쉬운 점/ 보완점)
+## 7. Reflections and Areas for Improvement (느낀점/ 아쉬운 점/ 보완점)
 
 **Reflections:**
 
