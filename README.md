@@ -14,6 +14,7 @@
 
 This project aims to develop a classic snake game using Python and enhance its intelligence by implementing the A* algorithm and basic reinforcement learning techniques.
 
+<br> <br> 
 
 ## 2. Development Environment and Tools (개발 환경 및 도구)
 
@@ -23,6 +24,8 @@ This project aims to develop a classic snake game using Python and enhance its i
 - **Development Period:** Starting from 2023.09.12 (Total 6h)
 
 ![00  스네이크 게임 예시화면](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/f58f1bf7-8f65-4274-809b-f7a7968cd780)
+
+<br> <br> 
 
 ## 3. Development Process (개발 과정)
 
@@ -61,6 +64,7 @@ This project aims to develop a classic snake game using Python and enhance its i
 
 ![화면4](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/ffa5ce92-b92e-4e17-9095-e8aa401f2e9d)
 
+<br> <br> 
 
 ## 4. Project Results and Achievements (프로젝트 결과 및 성과)
 
@@ -68,6 +72,7 @@ This project aims to develop a classic snake game using Python and enhance its i
 - Introduction of Artificial Intelligence: Applying reinforcement learning enabled the snake to adapt and learn within the game environment.
 - Enhanced User Experience: New game modes provided through obstacles and reinforcement learning improved user experience.
 
+<br> <br> 
 
 ## 5. Future Development Potential (미래의 발전 가능성)
 
@@ -75,11 +80,13 @@ Introduction of Advanced Reinforcement Learning Models: Applying advanced reinfo
 Development of Multiplayer Mode: Creating a multiplayer mode to allow several players to enjoy the game simultaneously.
 Development of Mobile and Web Versions: Expanding to mobile and web versions to make the game accessible on various platforms.
 
+<br> <br> 
 
 ## 6. Conclusion (결론)
 
 This project explored the potential of AI game development beyond the basics of game development using Python, through the application of advanced algorithms like reinforcement learning and the A* algorithm. The experiences and knowledge gained from this project are expected to be valuable for future AI-based projects.
 
+<br> <br> 
 
 ## 7. Reflections and Areas for Improvement (느낀점/ 아쉬운 점/ 보완점)
 
