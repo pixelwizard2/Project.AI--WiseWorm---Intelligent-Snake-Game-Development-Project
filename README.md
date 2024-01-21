@@ -1,7 +1,11 @@
 # Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project
 지능형 스네이크 게임 개발 프로젝트_ (A* Algorithm을 활용한 고급 장애물 회피 전략)
-
-
+<p align="right">
+  <a href="https://blog.naver.com/pixelwizard/223301484889">
+    <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
+  </a> </p>  
+  
+![snake game photo](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/a730c554-7c56-4521-a23e-902ab1b45ff5)
 
 ## 1. Project Introduction (프로젝트 소개)
 
