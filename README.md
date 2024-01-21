@@ -18,41 +18,41 @@ This project aims to develop a classic snake game using Python and enhance its i
 - **Development Period:** Starting from 2023.09.12 (Total 6h)
 
 
-## Development Process
+## 3. Development Process (개발 과정)
 
 **(1) Basic Game Logic Implementation**
 
-Utilizing the Pygame library to implement the snake game's basic elements like screen, movement, and food generation.
-Developing a simple interface responsive to user inputs.
+- Utilizing the Pygame library to implement the snake game's basic elements like screen, movement, and food generation.
+- Developing a simple interface responsive to user inputs.
 
 
 **(2) Applying the A-Star Algorithm**
 
-Implementing the pathfinding A* algorithm to enable the snake to find the optimal path to the food.
-Defining cost and heuristic functions to increase the efficiency of pathfinding.
+- Implementing the pathfinding A* algorithm to enable the snake to find the optimal path to the food.
+- Defining cost and heuristic functions to increase the efficiency of pathfinding.
 
 
 **(3) Obstacle Avoidance Logic**
 
-Introducing obstacles in the game to increase difficulty.
-Implementing logic for the snake to recognize and avoid obstacles.
+- Introducing obstacles in the game to increase difficulty.
+- Implementing logic for the snake to recognize and avoid obstacles.
 
 
 **(4) Applying Reinforcement Learning**
 
-Establishing a basic reinforcement learning environment using the Gym library.
-Applying the Q-learning algorithm for autonomous learning and behavior pattern improvement of the snake.
-(Key execution code and game application video with A-STAR algorithm attached at the bottom)
+- Establishing a basic reinforcement learning environment using the Gym library.
+- Applying the Q-learning algorithm for autonomous learning and behavior pattern improvement of the snake.
+(Key execution code and game application video capture with A-STAR algorithm attached at the bottom)
 
 
-## Project Results and Achievements
+## 4. Project Results and Achievements (프로젝트 결과 및 성과)
 
-Automation of Gameplay: Implemented the snake's ability to automatically find and move towards food using the A* algorithm.
-Introduction of Artificial Intelligence: Applying reinforcement learning enabled the snake to adapt and learn within the game environment.
-Enhanced User Experience: New game modes provided through obstacles and reinforcement learning improved user experience.
+- Automation of Gameplay: Implemented the snake's ability to automatically find and move towards food using the A* algorithm.
+- Introduction of Artificial Intelligence: Applying reinforcement learning enabled the snake to adapt and learn within the game environment.
+- Enhanced User Experience: New game modes provided through obstacles and reinforcement learning improved user experience.
 
 
-## Future Development Potential
+## 5. Future Development Potential (미래의 발전 가능성)
 
 Introduction of Advanced Reinforcement Learning Models: Applying advanced reinforcement learning algorithms like Deep Q-Networks (DQN) to further enhance the game's intelligence.
 Development of Multiplayer Mode: Creating a multiplayer mode to allow several players to enjoy the game simultaneously.
