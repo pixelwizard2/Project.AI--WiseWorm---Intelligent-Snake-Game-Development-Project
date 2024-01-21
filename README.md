@@ -60,10 +60,11 @@ This project aims to develop a classic snake game using Python and enhance its i
 
 ![화면3](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/2fd97f91-b25d-45da-9f70-bc41c10b8035)
   
-(Key execution code and game application video capture with A-STAR algorithm attached at the bottom)
+**Key execution code and game application video capture with A-STAR algorithm attached at the bottom**
 
 ![화면4](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/ffa5ce92-b92e-4e17-9095-e8aa401f2e9d)
 <br> <br> 
+
 
 ## 4. Project Results and Achievements (프로젝트 결과 및 성과)
 
@@ -72,6 +73,7 @@ This project aims to develop a classic snake game using Python and enhance its i
 - Enhanced User Experience: New game modes provided through obstacles and reinforcement learning improved user experience.
 <br> <br> 
 
+
 ## 5. Future Development Potential (미래의 발전 가능성)
 
 Introduction of Advanced Reinforcement Learning Models: Applying advanced reinforcement learning algorithms like Deep Q-Networks (DQN) to further enhance the game's intelligence.
@@ -79,10 +81,12 @@ Development of Multiplayer Mode: Creating a multiplayer mode to allow several pl
 Development of Mobile and Web Versions: Expanding to mobile and web versions to make the game accessible on various platforms.
 <br> <br> 
 
+
 ## 6. Conclusion (결론)
 
 This project explored the potential of AI game development beyond the basics of game development using Python, through the application of advanced algorithms like reinforcement learning and the A* algorithm. The experiences and knowledge gained from this project are expected to be valuable for future AI-based projects.
 <br> <br> 
+
 
 ## 7. Reflections and Areas for Improvement (느낀점/ 아쉬운 점/ 보완점)
 
