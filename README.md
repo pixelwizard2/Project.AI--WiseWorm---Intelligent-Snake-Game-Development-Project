@@ -33,6 +33,7 @@ This project aims to develop a classic snake game using Python and enhance its i
 - Developing a simple interface responsive to user inputs.
 
 ![01  cmd pygame 설치창](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/2bacf710-dc5d-4cb6-8847-9d6e44484513)
+<br>
 
 **(2) Applying the A-Star Algorithm**
 
@@ -40,6 +41,7 @@ This project aims to develop a classic snake game using Python and enhance its i
 - Defining cost and heuristic functions to increase the efficiency of pathfinding.
 
 ![001  a-star 알고리즘 예시](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/e87eebce-4b9e-405d-9ef6-a7545cacdbc0)
+<br>
 
 **(3) Obstacle Avoidance Logic**
 
@@ -49,7 +51,7 @@ This project aims to develop a classic snake game using Python and enhance its i
 ![화면1](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/2ac92d57-fcf0-49b0-9548-ed3b966e98da)
 
 ![화면2](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/565a7135-7a1e-4181-8c18-8dea1e417dcd)
-
+<br>
 
 **(4) Applying Reinforcement Learning**
 
@@ -61,7 +63,6 @@ This project aims to develop a classic snake game using Python and enhance its i
 (Key execution code and game application video capture with A-STAR algorithm attached at the bottom)
 
 ![화면4](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/ffa5ce92-b92e-4e17-9095-e8aa401f2e9d)
-
 <br> <br> 
 
 ## 4. Project Results and Achievements (프로젝트 결과 및 성과)
@@ -69,7 +70,6 @@ This project aims to develop a classic snake game using Python and enhance its i
 - Automation of Gameplay: Implemented the snake's ability to automatically find and move towards food using the A* algorithm.
 - Introduction of Artificial Intelligence: Applying reinforcement learning enabled the snake to adapt and learn within the game environment.
 - Enhanced User Experience: New game modes provided through obstacles and reinforcement learning improved user experience.
-
 <br> <br> 
 
 ## 5. Future Development Potential (미래의 발전 가능성)
@@ -77,13 +77,11 @@ This project aims to develop a classic snake game using Python and enhance its i
 Introduction of Advanced Reinforcement Learning Models: Applying advanced reinforcement learning algorithms like Deep Q-Networks (DQN) to further enhance the game's intelligence.
 Development of Multiplayer Mode: Creating a multiplayer mode to allow several players to enjoy the game simultaneously.
 Development of Mobile and Web Versions: Expanding to mobile and web versions to make the game accessible on various platforms.
-
 <br> <br> 
 
 ## 6. Conclusion (결론)
 
 This project explored the potential of AI game development beyond the basics of game development using Python, through the application of advanced algorithms like reinforcement learning and the A* algorithm. The experiences and knowledge gained from this project are expected to be valuable for future AI-based projects.
-
 <br> <br> 
 
 ## 7. Reflections and Areas for Improvement (느낀점/ 아쉬운 점/ 보완점)
