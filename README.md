@@ -13,7 +13,6 @@
 "Intelligent Snake Game Development: Applying A* Algorithm and Reinforcement Learning using Python"
 
 This project aims to develop a classic snake game using Python and enhance its intelligence by implementing the A* algorithm and basic reinforcement learning techniques.
-
 <br> <br> 
 
 ## 2. Development Environment and Tools (개발 환경 및 도구)
@@ -24,7 +23,6 @@ This project aims to develop a classic snake game using Python and enhance its i
 - **Development Period:** Starting from 2023.09.12 (Total 6h)
 
 ![00  스네이크 게임 예시화면](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/f58f1bf7-8f65-4274-809b-f7a7968cd780)
-
 <br> <br> 
 
 ## 3. Development Process (개발 과정)
@@ -94,13 +92,13 @@ This project explored the potential of AI game development beyond the basics of 
 
 - **Value of the Learning Process:** Gained deep understanding of Python programming, game development, and AI algorithms. Applying the A* algorithm and reinforcement learning to a real game was particularly interesting and provided practical problem-solving experience.
 - **Enhanced Creativity and Problem-Solving Skills:** Required creative ideas and problem-solving strategies at various stages of the project, especially while implementing obstacle avoidance logic and applying reinforcement learning.
-
+<br>
 
 **Areas for Improvement:**
 
 - **User Interface (UI) Limitations:** Focus on algorithm and game logic development resulted in a basic UI. The lack of time to develop a more attractive and intuitive UI was a downside.
 - **Complexity of Reinforcement Learning:** Though theoretically appealing, the practical implementation of reinforcement learning was more complex than anticipated, especially in improving the efficiency and stability of the learning process.
-
+<br> 
 
 **Future Improvements:**
 
