@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
   </a> </p>  
   
-![snake game photo1](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/9f19d349-f91a-4337-a7e8-6182f67ddd78)
+![snake game photo](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/a730c554-7c56-4521-a23e-902ab1b45ff5)
 
 
 ## 1. Project Introduction (프로젝트 소개)
@@ -100,5 +100,7 @@ This project explored the potential of AI game development beyond the basics of 
 - **Introduction of Advanced Reinforcement Learning Techniques:** Experimenting with more complex algorithms like Deep Q-Networks (DQN) instead of the simple Q-learning currently used.
 - **Adding Multiplayer Features and Game Modes:** Enhancing the game's appeal by introducing multiplayer features and diverse game modes.
 -** Enhancing User Experience (UX):** Improving the user interface and enriching the feedback and interactions during gameplay to improve user experience.
+
+![snake game photo1](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/9f19d349-f91a-4337-a7e8-6182f67ddd78)
 
 ※ This project laid a foundation for better future projects, providing important lessons and motivation for upcoming development activities.
