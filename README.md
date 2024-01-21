@@ -12,10 +12,10 @@ This project aims to develop a classic snake game using Python and enhance its i
 
 ## 2. Development Environment and Tools (개발 환경 및 도구)
 
-**-Language:** Python 3.8
-**-Key Libraries:** Pygame, Numpy, Gym (for reinforcement learning)
-**-Development Environment:** VSCode, Google Colab
-**-Development Period:** Starting from 2023.09.12 (Total 6h)
+**- Language:** Python 3.8
+**- Key Libraries:** Pygame, Numpy, Gym (for reinforcement learning)
+**- Development Environment:** VSCode, Google Colab
+**- Development Period:** Starting from 2023.09.12 (Total 6h)
 
 
 ## Development Process
