@@ -7,6 +7,7 @@
   
 ![snake game photo](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/a730c554-7c56-4521-a23e-902ab1b45ff5)
 
+
 ## 1. Project Introduction (프로젝트 소개)
 
 "Intelligent Snake Game Development: Applying A* Algorithm and Reinforcement Learning using Python"
@@ -21,6 +22,7 @@ This project aims to develop a classic snake game using Python and enhance its i
 - **Development Environment:** VSCode, Google Colab
 - **Development Period:** Starting from 2023.09.12 (Total 6h)
 
+![00  스네이크 게임 예시화면](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/f58f1bf7-8f65-4274-809b-f7a7968cd780)
 
 ## 3. Development Process (개발 과정)
 
@@ -29,12 +31,14 @@ This project aims to develop a classic snake game using Python and enhance its i
 - Utilizing the Pygame library to implement the snake game's basic elements like screen, movement, and food generation.
 - Developing a simple interface responsive to user inputs.
 
+![01  cmd pygame 설치창](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/2bacf710-dc5d-4cb6-8847-9d6e44484513)
 
 **(2) Applying the A-Star Algorithm**
 
 - Implementing the pathfinding A* algorithm to enable the snake to find the optimal path to the food.
 - Defining cost and heuristic functions to increase the efficiency of pathfinding.
 
+![001  a-star 알고리즘 예시](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/e87eebce-4b9e-405d-9ef6-a7545cacdbc0)
 
 **(3) Obstacle Avoidance Logic**
 
