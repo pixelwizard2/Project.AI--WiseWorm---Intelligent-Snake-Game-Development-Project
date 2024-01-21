@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
   </a> </p>  
   
-![snake game photo](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/a730c554-7c56-4521-a23e-902ab1b45ff5)
+![snake game photo1](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/9f19d349-f91a-4337-a7e8-6182f67ddd78)
 
 
 ## 1. Project Introduction (프로젝트 소개)
@@ -54,7 +54,12 @@ This project aims to develop a classic snake game using Python and enhance its i
 
 - Establishing a basic reinforcement learning environment using the Gym library.
 - Applying the Q-learning algorithm for autonomous learning and behavior pattern improvement of the snake.
+
+![화면3](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/2fd97f91-b25d-45da-9f70-bc41c10b8035)
+  
 (Key execution code and game application video capture with A-STAR algorithm attached at the bottom)
+
+![화면4](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/ffa5ce92-b92e-4e17-9095-e8aa401f2e9d)
 
 
 ## 4. Project Results and Achievements (프로젝트 결과 및 성과)
