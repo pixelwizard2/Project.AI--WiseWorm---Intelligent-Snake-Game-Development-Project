@@ -45,6 +45,10 @@ This project aims to develop a classic snake game using Python and enhance its i
 - Introducing obstacles in the game to increase difficulty.
 - Implementing logic for the snake to recognize and avoid obstacles.
 
+![화면1](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/2ac92d57-fcf0-49b0-9548-ed3b966e98da)
+
+![화면2](https://github.com/pixelwizard2/Project.AI--WiseWorm--Intelligent-Snake-Game-Development-Project/assets/138272416/565a7135-7a1e-4181-8c18-8dea1e417dcd)
+
 
 **(4) Applying Reinforcement Learning**
 
