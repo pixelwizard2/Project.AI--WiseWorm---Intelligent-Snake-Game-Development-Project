@@ -3,19 +3,19 @@
 
 
 
-## Project Introduction
+## 1. Project Introduction (프로젝트 소개)
 
 "Intelligent Snake Game Development: Applying A* Algorithm and Reinforcement Learning using Python"
 
 This project aims to develop a classic snake game using Python and enhance its intelligence by implementing the A* algorithm and basic reinforcement learning techniques.
 
 
-## Development Environment and Tools
+## 2. Development Environment and Tools (개발 환경 및 도구)
 
-Language: Python 3.8
-Key Libraries: Pygame, Numpy, Gym (for reinforcement learning)
-Development Environment: VSCode, Google Colab
-Development Period: Starting from 2023.09.12 (Total 6h)
+**-Language:** Python 3.8
+**-Key Libraries:** Pygame, Numpy, Gym (for reinforcement learning)
+**-Development Environment:** VSCode, Google Colab
+**-Development Period:** Starting from 2023.09.12 (Total 6h)
 
 
 ## Development Process
